@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Best School" | touch '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+#1/bin/bash
+cat >\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) Best School
